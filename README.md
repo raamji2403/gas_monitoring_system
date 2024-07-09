@@ -10,7 +10,7 @@ It monitors gas levels using a gas sensor and sends alerts through Blynk and ema
 - [Software Requirements](#software-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Respository Structure](#respository-structure)
 
 ## Introduction
 The Gas Detection System is designed to detect gas leaks and alert users through both the Blynk app and email notifications.
