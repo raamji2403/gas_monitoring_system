@@ -71,7 +71,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ### Repository Structure
 gas-detection-system/
-├── Gas_Monitoring_System.ino
+├── Gas_Monitoring_System/
+   ├── Gas_Monitoring_System.ino
 ├── alert.py
-├── README.md
-└── LICENSE
+└── README.md
