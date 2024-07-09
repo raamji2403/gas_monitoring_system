@@ -1,6 +1,6 @@
-// #define BLYNK_TEMPLATE_ID "TMPL3Ty576t6B"
-// #define BLYNK_TEMPLATE_NAME "Gas Detector"
-// #define BLYNK_AUTH_TOKEN "RHgjKgBzsLRDfnmmMZSb4hwKvcbbd5bG"
+#define BLYNK_TEMPLATE_ID "TMPL3Ty576t6B"
+#define BLYNK_TEMPLATE_NAME "Gas Detector"
+#define BLYNK_AUTH_TOKEN "RHgjKgBzsLRDfnmmMZSb4hwKvcbbd5bG"
 // From your device in Blink App
 
 #define BLYNK_PRINT Serial
