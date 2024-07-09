@@ -10,7 +10,7 @@ It monitors gas levels using a gas sensor and sends alerts through Blynk and ema
 - [Software Requirements](#software-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Respository Structure](#respository-structure)
+- [Repository Structure](#repository-structure)
 
 ## Introduction
 The Gas Detection System is designed to detect gas leaks and alert users through both the Blynk app and email notifications.
@@ -51,7 +51,7 @@ It uses an ESP8266 microcontroller to read values from a gas sensor and triggers
    git clone https://github.com/your_username/gas-detection-system.git
 
 2. Open Gas_Monitoring_System.ino in Arduino IDE.
-3. In Gas_Monitoring_Syatem.ino file replace the first 3 lines from Blynk App Configurations.
+3. In Gas_Monitoring_System.ino file replace the first 3 lines from Blynk App Configurations.
 4. Replace auth, ssid, and pass with your Blynk authentication token, WiFi SSID, and password.
 5. Upload the code to your ESP8266.
    
